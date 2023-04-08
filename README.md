@@ -2,7 +2,8 @@
 
 Note: I completed this project as part of a university course, so I'm unable to post the code publicly. If you want to see the code directly, I believe I can show it to you privately.
 
-Summary: A simulated music player app that allows a user to manage multiple playlists, play songs in various modes, and easily update their song library. The app utilizes Java ADTs (TreeMap, Stack, PriorityQueue, Hashtable, HashMap, HashSet, ArrayList) for an efficient and user-friendly system.
+Summary: A feature-rich music player app that allows users to play songs in various modes as well as manage their playlists and song library, The app uses Java ADTs to optimized data handling for a fast, error-free user experience.
+
 
 Demo:
 
